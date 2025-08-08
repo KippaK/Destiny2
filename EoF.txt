@@ -1,0 +1,68 @@
+title:EoF
+description:Wishlist for weapons released in Edge of Fate
+
+// Mint Retrograde ()
+dimwishlist:item=42435996&perks=1563455254,496047945
+dimwishlist:item=42435996&perks=1563455254,859780267
+
+
+// Lance Ephemeral ()
+dimwishlist:item=688593230&perks=848860060,3744057135
+dimwishlist:item=688593230&perks=848860060,496047945
+dimwishlist:item=688593230&perks=1563455254,3744057135
+dimwishlist:item=688593230&perks=1563455254,496047945
+
+
+// Ahab Char ()
+dimwishlist:item=1411560894&perks=2014892510,3581929919
+
+
+// Antedate ()
+dimwishlist:item=1435808083&perks=1563455254,717070634
+
+
+// Antedate ()
+dimwishlist:item=1435808083&perks=2633604463,2963273944
+dimwishlist:item=1435808083&perks=2633604463,3007133316
+
+
+// Finite Maybe ()
+dimwishlist:item=3241217409&perks=461595545,2037312142
+
+
+// Yeartide Apex ()
+dimwishlist:item=3293207827&perks=4223976499,2675184851
+dimwishlist:item=3293207827&perks=4223976499,3581929919
+dimwishlist:item=3293207827&perks=4223976499,1817983009
+dimwishlist:item=3293207827&perks=1171147302,2675184851
+dimwishlist:item=3293207827&perks=1171147302,3581929919
+dimwishlist:item=3293207827&perks=1171147302,1817983009
+
+
+// Festival Flight ()
+dimwishlist:item=4019651319&perks=1906147653,102912326
+dimwishlist:item=4019651319&perks=1906147653,859780267
+dimwishlist:item=4019651319&perks=3696140595,102912326
+dimwishlist:item=4019651319&perks=3696140595,859780267
+dimwishlist:item=4019651319&perks=3797647183,102912326
+dimwishlist:item=4019651319&perks=3797647183,859780267
+
+
+// Returned Memory ()
+dimwishlist:item=4049127142&perks=4223976499,2675184851
+
+
+// Agape ()
+dimwishlist:item=4124362340&perks=1563455254,3581929919
+
+
+// Agape ()
+dimwishlist:item=4124362340&perks=4223976499,2675184851
+
+
+// Outrageous Fortune ()
+dimwishlist:item=4146673634&perks=2817499044,3744057135
+
+
+// Theodolite ()
+dimwishlist:item=4146673635&perks=461595545
