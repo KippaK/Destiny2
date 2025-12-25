@@ -1,5 +1,11 @@
 title:Renegades
-description:Weapons released during renegades
+description:Weapons released during Renegades
+
+// Voltaic Shade ()
+dimwishlist:item=71057630&perks=717070634,4196156997
+dimwishlist:item=71057630&perks=2938480696,4196156997
+dimwishlist:item=71057630&perks=2840833776,4196156997
+
 
 // Mistral Lift ()
 dimwishlist:item=766122634&perks=2817499044,3744057135
@@ -64,6 +70,10 @@ dimwishlist:item=3146657389&perks=2073244114,332733060
 dimwishlist:item=3146657389&perks=2039482529,332733060
 
 
+// Something Something ()
+dimwishlist:item=3421075982&perks=573122728,496047945
+
+
 // Psi Aeterna IV ()
 dimwishlist:item=3556730800&perks=511499160,2422968039
 dimwishlist:item=3556730800&perks=511499160,2633604463
@@ -94,5 +104,14 @@ dimwishlist:item=3685829362&perks=511499160,717070634
 dimwishlist:item=3685829362&perks=65604327,1720528630
 dimwishlist:item=3685829362&perks=65604327,2633604463
 dimwishlist:item=3685829362&perks=65604327,717070634
+
+
+// All or Nothing ()
+dimwishlist:item=3984776322&perks=1183436451,3244229373
+dimwishlist:item=3984776322&perks=1183436451,102912326
+
+
+// Conspiracy Honed ()
+dimwishlist:item=4062069077&perks=1124871858,1454612425,3418165135,3744057135
 
 
